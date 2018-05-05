@@ -1,0 +1,17 @@
+{
+  "name": "typography-theme-zanj",
+  "version": "1.0.0",
+  "description": "A theme for Typography.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css",
+    "typography",
+    "typography",
+    "theme"
+  ],
+  "author": "Lars E. Schonander leschonander (at)",
+  "license": "MIT"
+}
